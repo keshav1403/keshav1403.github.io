@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Data Structures and Algorithms"
 collection: teaching
-type: "Undergraduate course"
+type: "UCSD CSE 100"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UCSD CSE Department"
+date: Winter Quarter 2020
+location: "La Jolla, CA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
